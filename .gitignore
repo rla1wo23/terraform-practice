@@ -5,3 +5,4 @@
 *.tfvars
 *.tfplan
 .terraform/
+global/s3/.terraform
